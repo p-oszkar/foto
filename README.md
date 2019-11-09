@@ -1,6 +1,6 @@
 # Costiui
 
-Costiui template for Jekyll. Browse through a [live demo](https://github.costiui.net/foto/).
+Costiui template for Jekyll. Browse through a [live demo](https://foto.costiui.net/).
 
 ![Costiui template screenshot](images/_screenshot.png)
 
