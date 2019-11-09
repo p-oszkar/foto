@@ -2,8 +2,8 @@
 # Site
 
 title: Foto Costiui.Net
-url: "https://github.costiui.net/foto"
-baseurl: "https://github.costiui.net/foto"
+url: "https://foto.costiui.net"
+baseurl: "https://foto.costiui.net"
 google_analytics_key:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
