@@ -16,7 +16,7 @@ author:
 social:
   name: Foto Costiui.Net
   links:
-    - https://github.com/Costiui/foto
+    - https://github.com/Costiui/foto.costiui.net
 
 # -----
 # Build
@@ -32,7 +32,7 @@ defaults:
     values:
       layout: "default"
       text_width: true
-      image: /media/1.jpg
+      image: /images/_screenshot.png
   -
     scope:
       path: "index.html"
