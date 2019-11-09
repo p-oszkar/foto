@@ -4,7 +4,7 @@
 title: Foto Costiui.Net
 url: "https://foto.costiui.net"
 baseurl: "https://foto.costiui.net"
-google_analytics_key:
+google_analytics_key: "UA-147213854-2"
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
