@@ -2,9 +2,9 @@
 # Site
 
 title: Foto Costiui.Net
-url: "https://github.costiui.net/foto"
-baseurl: "https://github.costiui.net/foto"
-google_analytics_key:
+url: "https://foto.costiui.net"
+baseurl: "https://foto.costiui.net"
+google_analytics_key: "UA-147213854-2"
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
@@ -16,7 +16,7 @@ author:
 social:
   name: Foto Costiui.Net
   links:
-    - https://github.com/Costiui/foto
+    - https://github.com/Costiui/foto.costiui.net
 
 # -----
 # Build
@@ -32,7 +32,7 @@ defaults:
     values:
       layout: "default"
       text_width: true
-      image: /media/1.jpg
+      image: /images/_screenshot.png
   -
     scope:
       path: "index.html"
