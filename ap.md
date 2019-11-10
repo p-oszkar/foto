@@ -8,4 +8,3 @@ permalink: /ap.html
 <h1>test ap</h1>
 
 
-{% include fb.like.html %}
