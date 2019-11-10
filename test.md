@@ -5,31 +5,23 @@ layout: default
 permalink: /test.html
 ---
 
-<div class="split-content">
 
-	<div class="side-content">
-		<div class="editable">
 
-				<!-- Costiui like button code -->
+<!-- Costiui like button code -->
 <div class="fb-like" data-href="https://www.facebook.com/CostiuiNet/" data-width="" data-layout="standard" data-action="like" data-size="small" data-show-faces="true" data-share="true"></div>
-		<!-- Costiui like button code -->	
-	<p>Daca va place munca mea, nu ezita?i sa ma urma?i.</p>
+<!-- Costiui like button code -->	
+<p>Daca va place munca mea, nu ezita?i sa ma urma?i.</p>
 {% include social-icons.html %}	
 			
-			
-</div>
-</div>
-
-		<div class="side-photo">	
-		<img src="{{ site.baseurl }}/images/costiui.jpg" alt="Costiui class="editable" height="400" width="400" />
-														       
+	![image](/assets/images/your-image.jpg)
+		<img src="/images/costiui.jpg" alt="Costiui class="editable" height="400" width="400" />
+		![My helpful screenshot](/images/costiui.jpg)												       
 											       
-	</div>
-	</div>
+	
 				<!-- Facebook comment -->
-		<div class="fb-comments" data-href="https://foto.costiui.net/credit/" data-width="" data-numposts="5"></div>			
+		<div class="fb-comments" data-href="https://foto.costiui.net/credit/" data-width="" data-numposts="5"></div>
 		<div id="fb-root"></div>
-		<!-- Facebook comment -->												       
+		<!-- Facebook comment -->							
 														       
 														       
 														       
