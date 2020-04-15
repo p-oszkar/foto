@@ -9,7 +9,7 @@ google_analytics_key: "UA-147213854-2"
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
 description: Foto Costiui.Net Fotogafi Costiui.
-author: Costiui
+author:
   name:
   email:
   twitter: @costiui
